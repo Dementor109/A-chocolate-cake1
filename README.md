@@ -1,1 +1,5 @@
-# A-chocolate-cake1
+# The recipe instructs one to make a simple, tasty and delicious chocolate cake.
+
+# Ingredients - The chocolate cake is composed of the following ingredients with exact measurements - 1 cup unsweetened cocoa powder, 2 1/2 cups all - purpose flour, 2 cups of sugar, 1 1/2 teaspoons baking powder, 1 teaspooon baking soda, 3 large eggs, 3/4 cup vegetable oil, 1/2 cup sour cream, 2 teaspoons vanilla extract. 
+
+# Recipe - Before starting the cake spray the cake pans and line the bottoms with parchment paper. As well as, preheat the oven to 350 degrees F.    Now, whisk the cocoa powder with 1 1/2 cups of boiling water until smooth. In another bowl whisk the dry ingredients until combined. Then add the eggs, sour cream, and vanilla extract into the dry ingredients bowl. Use a mixer until smooth. Then, steadily pour the cocoa mixture into the bowl whilst using a beater. Divide the batter into the cake pans or don't if only one is being used. Pop it into the oven. After 30 to 40 minutes attempt to place a toothpick in and if it comes out clean it is time to take out the cake. Let it cool on the racks for 10 minutes or so and carefully segregate the cake from the pan. A nice indulgent to enjoy!
